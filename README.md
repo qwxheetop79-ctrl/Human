@@ -1,1 +1,3 @@
 # Human
+
+print("Hello world");
